@@ -14,14 +14,9 @@ Hello! I'm Devendra Jadhav, a passionate software developer with expertise in bu
 - Agile Methodologies
 - Problem Solving
 
-### Projects
-I have worked on several projects that demonstrate my skills:
-- **Project 1**: Description of project 1.
-- **Project 2**: Description of project 2.
 
 ### Connect with Me
 Feel free to reach out via:
-- **Email**: devendra@example.com
 - **LinkedIn**: [linkedin.com/in/devendra-jadhav](https://linkedin.com/in/devendra-jadhav)
 
 Thank you for visiting my profile!

@@ -15,8 +15,6 @@ Hello! I'm Devendra Jadhav, a passionate software developer with expertise in bu
 - Problem Solving
 
 
-### Connect with Me
-Feel free to reach out via:
-- **LinkedIn**: [linkedin.com/in/devendra-jadhav](https://linkedin.com/in/devendra-jadhav)
+
 
 Thank you for visiting my profile!

@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Agentic AI**
 
-- 📫 How to reach me **devendrajadhav2470@gmail.com**
+- 📫 How to reach me **devendrajadhav2570@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

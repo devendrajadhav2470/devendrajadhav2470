@@ -27,10 +27,6 @@ Building intelligent AI applications with LLMs, RAG, Agentic AI, and Python.
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://leetcode.com/u/devendra_j/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
-</a>
-
 </p>
 
 ---
@@ -44,21 +40,9 @@ Building intelligent AI applications with LLMs, RAG, Agentic AI, and Python.
 </p>
 
 ### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-- Hugging Face Transformers
-- LangChain
-- LangGraph
-- OpenAI API
-- Groq
-- Ollama
-- RAG
-- Vector Databases
-- Agentic AI
-
+- PyTorch, Tensorflow
+- Hugging Face Transformers, LangChain, LangGraph, OpenAI API, Groq
+- RAG, Vector Databases, Agentic AI
 ### Backend
 
 <p>
@@ -72,41 +56,3 @@ Building intelligent AI applications with LLMs, RAG, Agentic AI, and Python.
 </p>
 
 ---
-
-## 📌 Areas of Interest
-
-- 🤖 Large Language Models (LLMs)
-- 🧠 Generative AI
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🤝 Multi-Agent Systems
-- 📊 Machine Learning
-- 💬 Natural Language Processing
-- ☁️ MLOps & Model Deployment
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devendrajadhav2470&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendrajadhav2470&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devendrajadhav2470&theme=tokyonight"/>
-
-</p>
-
----
-
-## ⚡ Current Focus
-
-- Fine-tuning open-source LLMs
-- Building RAG pipelines
-- Multi-Agent AI Systems
-- Production-ready AI applications
-- AI Evaluation & Benchmarking
